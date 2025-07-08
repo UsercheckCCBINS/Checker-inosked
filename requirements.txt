@@ -3,3 +3,4 @@ requests
 names
 Faker
 fake_useragent
+gunicorn
